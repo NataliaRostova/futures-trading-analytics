@@ -1,0 +1,37 @@
+{
+  "ad_spread": {
+    "mean_spread_rmb": 42.57,
+    "max_spread_rmb": 115.0,
+    "min_spread_rmb": -25.0,
+    "avg_roll_yield_ann_pct": 2.53,
+    "rollover_date": "2026-10-26",
+    "latest_oi_share_2701_pct": 80.8,
+    "avg_amihud_2612": 0.0002,
+    "avg_amihud_2701": 0.0001,
+    "chart_path": "D:\\Projects\\anti\\cv\\github_projects\\futures-trading-analytics\\assets\\ad_spread_liquidity.png"
+  },
+  "au_strategy": {
+    "trading_days": 84,
+    "total_return_pct": 2.31,
+    "annualized_return_pct": 7.1,
+    "annualized_vol_pct": 5.29,
+    "sharpe_ratio": 0.97,
+    "max_drawdown_pct": -2.23,
+    "calmar_ratio": 3.18,
+    "num_trades": 6,
+    "win_rate_pct": 33.3,
+    "profit_factor": 2.09,
+    "corr_au_tips_daily": -0.354,
+    "corr_au_dxy_daily": -0.081,
+    "final_equity_rmb": 1023138.57
+  },
+  "au_orderbook": {
+    "session_bars": 151,
+    "avg_spread_rmb": 0.0548,
+    "avg_spread_bps": 0.92,
+    "avg_obi": 0.0287,
+    "p95_abs_obi": 0.589,
+    "session_vwap_rmb": 593.07,
+    "total_session_vol_lots": 29407
+  }
+}
