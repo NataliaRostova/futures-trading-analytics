@@ -1,0 +1,6 @@
+numpy>=1.26.0
+pandas>=2.1.0
+matplotlib>=3.8.0
+scipy>=1.11.0
+# Optional for live SHFE futures data ingestion:
+# akshare>=1.14.0
